@@ -100,9 +100,9 @@ leafletMap <- function(
   tagList(
     singleton(
       tags$head(
-        tags$link(rel="stylesheet", type="text/css", href="leaflet/leaflet.css"),
-        tags$script(src="leaflet/leaflet.js"),
-        tags$script(src="leaflet/binding.js")
+        tags$link(rel="stylesheet", type="text/css", href="leafletshiny/leaflet.css"),
+        tags$script(src="leafletshiny/leaflet.js"),
+        tags$script(src="leafletshiny/binding.js")
       )
     ),
     tags$div(
