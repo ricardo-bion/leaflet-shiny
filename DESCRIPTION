@@ -1,4 +1,4 @@
-Package: leaflet-shiny
+Package: leafletshiny
 Type: Package
 Title: Interactive map component for Shiny, using Leaflet
 Version: 1.0
